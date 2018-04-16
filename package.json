@@ -1,0 +1,16 @@
+{
+  "name": "filenamechange",
+  "version": "1.0.0",
+  "description": "1.中文名转换英文名\r 2.统一替换文件内容",
+  "main": "index.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.21",
+    "pinyinlite": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
